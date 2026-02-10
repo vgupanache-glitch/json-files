@@ -1,0 +1,223 @@
+{
+  "coreTeam": [
+    {
+      "id": "s1",
+      "name": "Chetan Kumar Tiwari",
+      "role": "Convenor",
+      "department": "B.Tech CSE",
+      "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770744163/IMG_5572_tedtya.jpg",
+      "isLead": true
+    },
+    {
+      "id": "s2",
+      "name": "Dherrya Maheshwari",
+      "role": "Co-Convenor",
+      "department": "CODE",
+      "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770744159/WhatsApp_Image_2026-02-10_at_21.32.28_rjsjyc.jpg",
+      "isLead": true
+    },
+    {
+      "id": "s3",
+      "name": "Vanya Saxena",
+      "role": "Secretary",
+      "department": "BAJMC",
+      "image": "https://ui-avatars.com/api/?name=Vanya+Saxena&background=random"
+    },
+    {
+      "id": "s4",
+      "name": "Himanshu Gautam",
+      "role": "Co-Secretary",
+      "department": "B.Tech CSA",
+      "image": "https://ui-avatars.com/api/?name=Himanshu+Gautam&background=random"
+    },
+    {
+      "id": "s5",
+      "name": "Sachin Choudhary",
+      "role": "Treasurer",
+      "department": "B.Tech",
+      "image": "https://ui-avatars.com/api/?name=Sachin+Choudhary&background=random"
+    },
+    {
+      "id": "s6",
+      "name": "Anugrah Mishra",
+      "role": "Co-Treasurer",
+      "department": "BPT",
+      "image": "https://ui-avatars.com/api/?name=Anugrah+Mishra&background=random"
+    },
+    {
+      "id": "s7",
+      "name": "Vedant Singh",
+      "role": "Senior Advisor",
+      "department": "B.Tech CSE",
+      "image": "https://ui-avatars.com/api/?name=Vedant+Singh&background=random"
+    },
+    {
+      "id": "s8",
+      "name": "Umesh Gadhwal",
+      "role": "Venue & Infrastructure Head",
+      "department": "Agriculture",
+      "image": "https://ui-avatars.com/api/?name=Umesh+Gadhwal&background=random"
+    },
+    {
+      "id": "s9",
+      "name": "Abhay Kumar Giri",
+      "role": "Discipline Head",
+      "department": "B.Tech",
+      "image": "https://ui-avatars.com/api/?name=Abhay+Giri&background=random"
+    },
+    {
+      "id": "s10",
+      "name": "Manjeet Kumar",
+      "role": "Technical Head",
+      "department": "B.Tech CSE",
+      "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770156063/IMG-20250828-WA0004_gtkbuf.jpg"
+    },
+    {
+      "id": "s11",
+      "name": "Himani Dalani",
+      "role": "Outreach Head",
+      "department": "Allied Healthcare",
+      "image": "https://ui-avatars.com/api/?name=Himani+Dalani&background=random"
+    },
+    {
+      "id": "s12",
+      "name": "Om Ranjan",
+      "role": "Quick Response Team Head",
+      "department": "B.Tech CSE",
+      "image": "https://ui-avatars.com/api/?name=Om+Ranjan&background=random"
+    },
+    {
+      "id": "f1",
+      "name": "Dr. Pramod Kumar Faujdar",
+      "role": "Organising Secretary P3",
+      "designation": "Dean Student Welfare",
+      "image": "https://ui-avatars.com/api/?name=Pramod+Kumar&background=0D8ABC&color=fff",
+      "isFaculty": true
+    },
+    {
+      "id": "f6",
+      "name": "Capt. Krishna Nandan",
+      "role": "Faculty Coordinator",
+      "designation": "Faculty",
+      "image": "https://ui-avatars.com/api/?name=Krishna+Nandan&background=random",
+      "isFaculty": true
+    },
+    {
+      "id": "f7",
+      "name": "Mr. Tarun Pratap Singh",
+      "role": "Faculty Coordinator",
+      "designation": "Faculty",
+      "image": "https://ui-avatars.com/api/?name=Tarun+Pratap&background=random",
+      "isFaculty": true
+    },
+    {
+      "id": "f8",
+      "name": "Mr. Dev Pareek",
+      "role": "Faculty Coordinator",
+      "designation": "Faculty",
+      "image": "https://ui-avatars.com/api/?name=Dev+Pareek&background=random",
+      "isFaculty": true
+    }
+  ],
+  "panacheTeam": [
+    {
+      "id": "s13",
+      "name": "Amrita Mahee",
+      "role": "Head (Panache)",
+      "department": "BPT",
+      "image": "https://ui-avatars.com/api/?name=Amrita+Mahee&background=random"
+    },
+    {
+      "id": "s14",
+      "name": "Chetanprakash Kaushik",
+      "role": "Co-Head (Panache)",
+      "department": "Development Studies",
+      "image": "https://ui-avatars.com/api/?name=Chetanprakash+Kaushik&background=random"
+    },
+    {
+      "id": "s15",
+      "name": "Anirban Kumar",
+      "role": "Management Head (Panache)",
+      "department": "B.Tech CSE",
+      "image": "https://ui-avatars.com/api/?name=Anirban+Kumar&background=random"
+    },
+    {
+      "id": "f2",
+      "name": "Dr. Shraddha Arya",
+      "role": "Faculty Coordinator",
+      "designation": "Coordinator SWC",
+      "image": "https://ui-avatars.com/api/?name=Shraddha+Arya&background=random",
+      "isFaculty": true
+    },
+    {
+      "id": "f3",
+      "name": "Mr. Satish Kumar",
+      "role": "Faculty Coordinator",
+      "designation": "ADSW",
+      "image": "https://ui-avatars.com/api/?name=Satish+Kumar&background=random",
+      "isFaculty": true
+    }
+  ],
+  "pratisthaTeam": [
+    {
+      "id": "s16",
+      "name": "Adarsh Kumar",
+      "role": "Head (Pratistha)",
+      "department": "B.Tech CSE",
+      "image": "https://ui-avatars.com/api/?name=Adarsh+Kumar&background=random"
+    },
+    {
+      "id": "s17",
+      "name": "Dikshita Joshi",
+      "role": "Co-Head (Pratistha)",
+      "department": "ABM",
+      "image": "https://ui-avatars.com/api/?name=Dikshita+Joshi&background=random"
+    },
+    {
+      "id": "f5",
+      "name": "Dr. Anita Choudhary",
+      "role": "Faculty Coordinator",
+      "designation": "Sports Cell In-charge",
+      "image": "https://ui-avatars.com/api/?name=Anita+Choudhary&background=random",
+      "isFaculty": true
+    }
+  ],
+  "pragatiTeam": [
+    {
+      "id": "s19",
+      "name": "Hardik Gupta",
+      "role": "Head (Pragati)",
+      "department": "CSA(AI&DS)",
+      "image": "https://ui-avatars.com/api/?name=Hardik+Gupta&background=random"
+    },
+    {
+      "id": "s20",
+      "name": "Kartik Yadav",
+      "role": "Co-Head (Pragati)",
+      "department": "CODE",
+      "image": "https://ui-avatars.com/api/?name=Kartik+Yadav&background=random"
+    },
+    {
+      "id": "s18",
+      "name": "Leeladhar Swami",
+      "role": "Management Head (Pragati)",
+      "department": "ABM",
+      "image": "https://ui-avatars.com/api/?name=Leeladhar+Swami&background=random"
+    },
+    {
+      "id": "s21",
+      "name": "Harshit Saini",
+      "role": "Management Head",
+      "department": "B.Tech",
+      "image": "https://ui-avatars.com/api/?name=Harshit+Saini&background=random"
+    },
+    {
+      "id": "f4",
+      "name": "Mr. Satish Jangid",
+      "role": "Faculty Coordinator",
+      "designation": "President IIC",
+      "image": "https://ui-avatars.com/api/?name=Satish+Jangid&background=random",
+      "isFaculty": true
+    }
+  ]
+}
