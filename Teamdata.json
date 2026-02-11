@@ -9,6 +9,30 @@
       "isFaculty": true
     },
     {
+      "id": "f4",
+      "name": "Capt. Krishna Nandan",
+      "designation": "Faculty Coordinator",
+      "role": "Faculty Coordinator",
+      "contact": "8619981936",
+      "isFaculty": true
+    },
+    {
+      "id": "f6",
+      "name": "Mr. Tarun Pratap Singh",
+      "designation": "Faculty Coordinator",
+      "role": "Faculty Coordinator",
+      "contact": "7849863839",
+      "isFaculty": true
+    },
+    {
+      "id": "f7",
+      "name": "Mr. Dev Pareek",
+      "designation": "Faculty Coordinator",
+      "role": "Faculty Coordinator",
+      "contact": "9391680897",
+      "isFaculty": true
+    },
+    {
       "id": "2",
       "name": "Chetan Kumar Tiwari",
       "designation": "B.Tech CSE",
@@ -91,30 +115,6 @@
       "designation": "B.Tech CSE",
       "role": "Quick Response Team",
       "contact": "6200372198"
-    },
-    {
-      "id": "f4",
-      "name": "Capt. Krishna Nandan",
-      "designation": "Faculty Coordinator",
-      "role": "Faculty Coordinator",
-      "contact": "8619981936",
-      "isFaculty": true
-    },
-    {
-      "id": "f6",
-      "name": "Mr. Tarun Pratap Singh",
-      "designation": "Faculty Coordinator",
-      "role": "Faculty Coordinator",
-      "contact": "7849863839",
-      "isFaculty": true
-    },
-    {
-      "id": "f7",
-      "name": "Mr. Dev Pareek",
-      "designation": "Faculty Coordinator",
-      "role": "Faculty Coordinator",
-      "contact": "9391680897",
-      "isFaculty": true
     }
   ],
   "panacheTeam": [
