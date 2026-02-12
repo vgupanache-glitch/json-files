@@ -1,0 +1,72 @@
+[
+  {
+    "id": "past-2",
+    "name": "Anuv Jain",
+    "year": "Victors Cup 2023",
+    "role": "Star Night",
+    "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770739898/vgujaipur-26-01-2026-0067_hqey76.jpg",
+    "color": "from-blue-500 to-cyan-500",
+    "isPast": true,
+    "isRevealable": true
+  },
+  {
+    "id": "past-1",
+    "name": "Zakir Khan",
+    "year": "Panche 2025",
+    "role": "Headliner",
+    "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770739901/vibinfestival-26-01-2026-0003_edvebk.jpg",
+    "color": "from-purple-500 to-indigo-500",
+    "isPast": true,
+    "isRevealable": true
+  },
+  {
+    "id": "past-3",
+    "name": "Aditya Rekhari",
+    "year": "2025",
+    "role": "Star Night",
+    "image": "https://res.cloudinary.com/dkw4yjuze/image/upload/v1770739902/vgujaipur-26-01-2026-0036_yguq33.jpg",
+    "color": "from-blue-500 to-cyan-500",
+    "isPast": true,
+    "isRevealable": true
+  },
+  {
+    "id": "future-1",
+    "name": "Mystery Reveal",
+    "year": "2026",
+    "role": "Top Secret",
+    "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-gray-500 to-slate-500",
+    "isLocked": true,
+    "isRevealable": false
+  },
+  {
+    "id": "future-2",
+    "name": "Mystery Reveal",
+    "year": "2026",
+    "role": "Top Secret",
+    "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-gray-500 to-slate-500",
+    "isLocked": true,
+    "isRevealable": false
+  },
+  {
+    "id": "future-3",
+    "name": "Mystery Reveal",
+    "year": "2026",
+    "role": "Top Secret",
+    "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-gray-500 to-slate-500",
+    "isLocked": true,
+    "isRevealable": false
+  },
+  {
+    "id": "future-4",
+    "name": "Mystery Reveal",
+    "year": "2026",
+    "role": "Top Secret",
+    "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-gray-500 to-slate-500",
+    "isLocked": true,
+    "isRevealable": false
+  }
+]
